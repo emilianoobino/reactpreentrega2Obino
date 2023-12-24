@@ -1,4 +1,4 @@
 # React + Vite
 
 
-public/assets/preEntrega2Obino.gif
+![](public/assets/preEntrega2Obino.gif)
