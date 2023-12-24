@@ -1,3 +1,4 @@
 # React PreEntrega 2 Obino
 
-![](public/assets/preEntrega2Obino.gif)
+
+![GIF](https://github.com/reactpreentrega2Obino/public/assets/preEntrega2Obino.gif)
